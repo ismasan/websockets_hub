@@ -25,7 +25,9 @@ EM.run {
   
   dispatcher.on_message do |publisher_name, message|
     puts "#{publisher_name}: #{message}"
+    # Persist
     
+    # Websockets push
   end
   
   dispatcher.run
