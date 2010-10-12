@@ -1,0 +1,19 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    activesupport (3.0.0)
+    addressable (2.2.1)
+    em-http-request (0.2.14)
+      addressable (>= 2.0.0)
+      eventmachine (>= 0.12.9)
+    eventmachine (0.12.10)
+    json (1.4.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  activesupport
+  em-http-request
+  eventmachine
+  json
