@@ -1,0 +1,5 @@
+:publishers:
+  :twitter_stream:
+    :user_name: my_user_name
+    :password: my_twitter_password
+    :term: some_popular_term
